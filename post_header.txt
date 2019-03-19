@@ -1,0 +1,13 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 7670
+Content-Type: application/x-www-form-urlencoded
+Cookie: __utmz=84372622.1552881361.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); dig=4; ASP.NET_SessionId=0u32zub3dtoancn504jt1m1j; __utma=84372622.1584623791.1552881361.1552972375.1552986900.3; __utmc=84372622; __utmt=1; tz=E. South America Standard Time; hts=False; cht=10; __utmb=84372622.4.10.1552986900
+Host: www.fasteconomicnews.com
+Origin: https://www.fasteconomicnews.com
+Referer: https://www.fasteconomicnews.com/fx_calendar.aspx
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
